@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="102b7700-afd0-4b7f-901d-c771c27de32a" name="Changes" comment="CS101 Black Box Game- initial commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lixqar&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lixqar/blackboxgame&quot;,
+    &quot;accountId&quot;: &quot;53cec9b3-60bf-4a2a-95c2-c400b222ad30&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2xVvx0YTHNRsirXklR5R5G0d1og" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Patrick/IdeaProjects/BlackBoxGame2/src/Main.java",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="BlackBoxGame2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="BlackBoxGame2" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.24807.4" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.24807.4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="102b7700-afd0-4b7f-901d-c771c27de32a" name="Changes" comment="" />
+      <created>1748036301992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748036301992</updated>
+      <workItem from="1748036302925" duration="1577000" />
+      <workItem from="1748037898257" duration="13856000" />
+      <workItem from="1748105420234" duration="3599000" />
+      <workItem from="1748109059419" duration="8880000" />
+      <workItem from="1748124216940" duration="1725000" />
+      <workItem from="1748125965218" duration="2644000" />
+      <workItem from="1748128768888" duration="9340000" />
+      <workItem from="1748154669557" duration="424000" />
+      <workItem from="1748155756070" duration="3214000" />
+      <workItem from="1748205821515" duration="723000" />
+      <workItem from="1748260778879" duration="671000" />
+      <workItem from="1748283543063" duration="84000" />
+      <workItem from="1748287640999" duration="3178000" />
+      <workItem from="1748306197077" duration="1750000" />
+      <workItem from="1748308726443" duration="627000" />
+      <workItem from="1748796065375" duration="2059000" />
+      <workItem from="1758470943433" duration="62000" />
+      <workItem from="1759349298544" duration="36000" />
+      <workItem from="1762118200818" duration="24000" />
+      <workItem from="1772555944883" duration="617000" />
+      <workItem from="1773934994736" duration="81000" />
+      <workItem from="1776971024060" duration="289000" />
+      <workItem from="1776971381416" duration="1257000" />
+      <workItem from="1776972661309" duration="346000" />
+      <workItem from="1776973022497" duration="2216000" />
+      <workItem from="1776977782989" duration="379000" />
+      <workItem from="1776978177966" duration="21000" />
+    </task>
+    <task id="LOCAL-00001" summary="CS101 Black Box Game- initial commit">
+      <option name="closed" value="true" />
+      <created>1776972619808</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1776972619808</updated>
+    </task>
+    <task id="LOCAL-00002" summary="CS101 Black Box Game- initial commit">
+      <option name="closed" value="true" />
+      <created>1776973334789</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1776973334789</updated>
+    </task>
+    <task id="LOCAL-00003" summary="CS101 Black Box Game- initial commit">
+      <option name="closed" value="true" />
+      <created>1776973471841</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1776973471841</updated>
+    </task>
+    <task id="LOCAL-00004" summary="CS101 Black Box Game- initial commit">
+      <option name="closed" value="true" />
+      <created>1776973786391</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1776973786391</updated>
+    </task>
+    <task id="LOCAL-00005" summary="CS101 Black Box Game- initial commit">
+      <option name="closed" value="true" />
+      <created>1776974184330</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1776974184330</updated>
+    </task>
+    <task id="LOCAL-00006" summary="CS101 Black Box Game- initial commit">
+      <option name="closed" value="true" />
+      <created>1776974509136</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1776974509136</updated>
+    </task>
+    <task id="LOCAL-00007" summary="CS101 Black Box Game- initial commit">
+      <option name="closed" value="true" />
+      <created>1776974560732</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1776974560732</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CS101 Project: BlackBox Game- initial commit" />
+    <MESSAGE value="CS101 Black Box Game- initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="CS101 Black Box Game- initial commit" />
+  </component>
+</project>
